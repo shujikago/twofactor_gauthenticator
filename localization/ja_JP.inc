@@ -32,7 +32,7 @@ $labels['check_code'] = 'コードチェック';
 $labels['code_ok'] = 'コードOK';
 $labels['code_ko'] = 'コードが違ってます';
 
-$labels['dont_ask_me_30days'] = '子の端末で以後30日間コードを求めるな';
+$labels['dont_ask_me_30days'] = 'この端末では、30日間コードの入力を省略する';
 
 $labels['check_code_to_activate'] = '保存する前にコードを確認してください';
 
